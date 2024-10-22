@@ -53,13 +53,13 @@ html, body {
 }
 
 .slide:nth-of-type(3) {
-  background-image: url('/content/img0.png');
+  background-image: url('https://i.ibb.co/94NLTPz/img1.png');
   background-repeat: no-repeat;
   background-size:contain;
 }
 
 .slide:nth-of-type(4) {
-  background-image: url('/content/img1.png');
+  background-image: url('https://i.ibb.co/XXNVx44/img0.png');
   background-repeat: no-repeat;
   background-size:contain;
 }

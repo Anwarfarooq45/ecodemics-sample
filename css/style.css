@@ -1,5 +1,5 @@
 html, body {
-  background: url(/content/bg2.jpg);
+  background: url(/content/bg2.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -41,25 +41,25 @@ html, body {
 }
 
 .slide:nth-of-type(1) {
-  background-image: url('/content/img0.jpg');
+  background-image: url('/content/img0.png');
   background-repeat: no-repeat;
   background-size:contain;
 }
 
 .slide:nth-of-type(2) {
-  background-image: url('/content/img1.jpg');
+  background-image: url('/content/img1.png');
   background-repeat: no-repeat;
   background-size:contain;
 }
 
 .slide:nth-of-type(3) {
-  background-image: url('/content/img0.jpg');
+  background-image: url('/content/img0.png');
   background-repeat: no-repeat;
   background-size:contain;
 }
 
 .slide:nth-of-type(4) {
-  background-image: url('/content/img1.jpg');
+  background-image: url('/content/img1.png');
   background-repeat: no-repeat;
   background-size:contain;
 }

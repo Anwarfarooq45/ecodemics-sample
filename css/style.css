@@ -1,5 +1,5 @@
 html, body {
-  background: url(/content/bg2.png);
+  background: url('https://i.ibb.co/qkzdDrt/bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -41,7 +41,7 @@ html, body {
 }
 
 .slide:nth-of-type(1) {
-  background-image: url('/content/img0.png');
+  background-image: url('https://i.ibb.co/XXNVx44/img0.png');
   background-repeat: no-repeat;
   background-size:contain;
 }
